@@ -21,7 +21,8 @@
 
 Today we are going to solve **Bandit1**
 
-
+1- start the chanllenge `ssh bandit1@bandit.labs.overthewire.org -p 2220` the password for this level is {**NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL**}
+ 
 2- `ls ` to view all the directories and files , You are going to see file calls **-**    
 
 3- `cat < -` to read the file  , And here we go this is the flag  "rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi"
